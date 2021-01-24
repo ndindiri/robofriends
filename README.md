@@ -1,2 +1,8 @@
 # robofriends
-The Robot Friends From complete developer zero to mastery 
+Tutorial for udemy course - React + Redux
+
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
